@@ -1,5 +1,5 @@
 
-##### Business Case 
+# Business Case 
 
 ## Business Goal
 
